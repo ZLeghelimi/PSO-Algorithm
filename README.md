@@ -1,5 +1,5 @@
 # PSO-Algorithm
-Partical Swarm Optimization
+Partical Swarm Optimization Algorithm
 
 
 Problem : 
